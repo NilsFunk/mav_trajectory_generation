@@ -60,6 +60,6 @@ void drawMavSampledTrajectoryWithMavMarker(
 void drawVertices(const Vertex::Vector& vertices, const std::string& frame_id,
                   visualization_msgs::MarkerArray* marker_array);
 
-}  // namespace mav_trajectory_generation
+}  // namespace mav_tube_trajectory_generation
 
 #endif  // MAV_TRAJECTORY_GENERATION_ROS_ROS_CONVERSIONS_H_

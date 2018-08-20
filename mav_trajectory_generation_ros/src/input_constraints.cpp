@@ -77,4 +77,4 @@ bool InputConstraints::removeConstraint(int constraint_type) {
   }
 }
 
-}  // namespace mav_trajectory_generation
+}  // namespace mav_tube_trajectory_generation

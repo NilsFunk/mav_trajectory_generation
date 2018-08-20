@@ -302,4 +302,4 @@ double FeasibilityRecursive::evaluateThrust(const Segment& segment,
           gravity_)
       .norm();
 }
-}  // namespace mav_trajectory_generation
+}  // namespace mav_tube_trajectory_generation

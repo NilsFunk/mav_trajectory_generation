@@ -844,7 +844,7 @@ void TimeEvaluationNode::outputResultsToFile(
   ROS_INFO("Output results to: %s", filename.c_str());
 }
 
-}  // namespace mav_trajectory_generation
+}  // namespace mav_tube_trajectory_generation
 
 int main(int argc, char** argv) {
   ros::init(argc, argv, "time_evaluation_node");

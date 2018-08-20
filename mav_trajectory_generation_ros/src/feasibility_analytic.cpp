@@ -231,4 +231,4 @@ InputFeasibilityResult FeasibilityAnalytic::recursiveRollPitchFeasibility(
     return InputFeasibilityResult::kInputFeasible;
   }
 }
-}  // namespace mav_trajectory_generation
+}  // namespace mav_tube_trajectory_generation

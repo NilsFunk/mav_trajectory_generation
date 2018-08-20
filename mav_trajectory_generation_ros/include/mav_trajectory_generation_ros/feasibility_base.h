@@ -103,6 +103,6 @@ class FeasibilityBase {
   HalfPlane::Vector half_plane_constraints_;
   Eigen::Vector3d gravity_;
 };
-}  // namespace mav_trajectory_generation
+}  // namespace mav_tube_trajectory_generation
 
 #endif  // MAV_TRAJECTORY_GENERATION_ROS_FEASIBILITY_BASE_H_

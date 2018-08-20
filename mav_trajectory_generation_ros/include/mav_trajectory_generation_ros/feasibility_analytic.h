@@ -82,6 +82,6 @@ class FeasibilityAnalytic : public FeasibilityBase {
       const std::vector<Extremum>& jerk_candidates, double t_1,
       double t_2) const;
 };
-}  // namespace mav_trajectory_generation
+}  // namespace mav_tube_trajectory_generation
 
 #endif  // MAV_TRAJECTORY_GENERATION_ROS_FEASIBILITY_ANALYTIC_H_

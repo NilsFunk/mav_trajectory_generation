@@ -36,6 +36,6 @@ bool trajectoryToPolynomialTrajectoryMsg(
 bool polynomialTrajectoryMsgToTrajectory(
     const planning_msgs::PolynomialTrajectory4D& msg, Trajectory* trajectory);
 
-}  // namespace mav_trajectory_generation
+}  // namespace mav_tube_trajectory_generation
 
 #endif  // MAV_TRAJECTORY_GENERATION_ROS_ROS_CONVERSIONS_H_

@@ -91,4 +91,4 @@ bool polynomialTrajectoryMsgToTrajectory(
   return true;
 }
 
-}  // namespace mav_trajectory_generation
+}  // namespace mav_tube_trajectory_generation

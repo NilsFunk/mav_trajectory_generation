@@ -91,6 +91,6 @@ class FeasibilityRecursive : public FeasibilityBase {
 
   double evaluateThrust(const Segment& segment, double time) const;
 };
-}  // namespace mav_trajectory_generation
+}  // namespace mav_tube_trajectory_generation
 
 #endif  // MAV_TRAJECTORY_GENERATION_ROS_FEASIBILITY_RECURSIVE_H_

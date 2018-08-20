@@ -58,6 +58,6 @@ class InputConstraints {
  private:
   std::map<int, double> constraints_;
 };
-}  // namespace mav_trajectory_generation
+}  // namespace mav_tube_trajectory_generation
 
 #endif // MAV_TRAJECTORY_GENERATION_ROS_INPUT_CONSTRAINTS_H_

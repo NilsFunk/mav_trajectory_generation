@@ -57,6 +57,6 @@ class FeasibilitySampling : public FeasibilityBase {
   // The user settings.
   Settings settings_;
 };
-}  // namespace mav_trajectory_generation
+}  // namespace mav_tube_trajectory_generation
 
 #endif  // MAV_TRAJECTORY_GENERATION_ROS_FEASIBILITY_SAMPLING_H_

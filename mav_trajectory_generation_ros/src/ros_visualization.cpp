@@ -200,4 +200,4 @@ void drawVertices(const Vertex::Vector& vertices, const std::string& frame_id,
                                 marker_array);
 }
 
-}  // namespace mav_trajectory_generation
+}  // namespace mav_tube_trajectory_generation
